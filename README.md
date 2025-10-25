@@ -365,6 +365,14 @@ Exemple :
 *Dernière mise à jour : 2025-10-20*
 
 
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
+
 ---
 
 <div align="center">
